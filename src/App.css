@@ -25,6 +25,12 @@
 }
 
 .App-link {
+  background-color: #ffffff;
+  padding-left: 25px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 25px;
+  border-radius: 5px;
   color: #4cbb30;
 }
 
